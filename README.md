@@ -50,6 +50,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 ---
 
 ### BI: Analytics & Reporting (Data Analysis)
+![Project Roadmap](https://github.com/user-attachments/assets/5ddaaddc-1580-43d8-aee6-7846eb6b9a26)
 
 #### Objective
 Develop SQL-based analytics to deliver detailed insights into:
